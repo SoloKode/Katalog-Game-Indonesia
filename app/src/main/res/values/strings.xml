@@ -1,3 +1,55 @@
 <resources>
     <string name="app_name">Katalog Game Indonesia</string>
+
+    <string name="name">Nama Game</string>
+    <string name="genre">Genre:\u0020</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>A Space For The Unbound</item>
+        <item>Code Atma</item>
+        <item>Coffee Talk</item>
+        <item>Coral Island</item>
+        <item>Dreadout</item>
+        <item>Knight vs Giant</item>
+        <item>My Lovely Empress</item>
+        <item>Potion Permit</item>
+        <item>Troublemaker</item>
+        <item>Valthirian Arc 2</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Game petualangan naratif yang mengeksplorasi kesehatan mental, kenangan, dan hubungan dalam latar belakang Indonesia pada tahun 90-an.</item>
+        <item>RPG mobile yang memadukan dunia mistis dengan teknologi modern, di mana kamu mengumpulkan dan melatih Atma, makhluk mistis yang kuat.</item>
+        <item>Visual novel yang berfokus pada kehidupan barista di sebuah kafe fantasi, mendengarkan cerita pelanggan dan meramu minuman unik untuk mereka.</item>
+        <item>Simulasi pertanian tropis dengan tema pulau, di mana kamu mengelola lahan pertanian, berinteraksi dengan penduduk desa, dan memperbaiki lingkungan.</item>
+        <item>Game horor bertema survival yang mengikuti petualangan seorang siswi SMA yang terjebak di dunia penuh makhluk gaib dan misteri.</item>
+        <item>Game aksi di mana kamu berperan sebagai kesatria yang melawan raksasa dalam pertempuran epik dengan elemen RPG dan strategi.</item>
+        <item>Simulasi kerajaan di mana kamu berperan sebagai seorang permaisuri yang harus mengelola kekaisaran sambil mempertahankan hubungan romantisnya.</item>
+        <item>RPG simulasi kehidupan di mana kamu berperan sebagai alkemis yang membantu penduduk desa dengan meracik ramuan dan mengobati penyakit mereka.</item>
+        <item>Action-adventure berlatar belakang kehidupan sekolah Indonesia, di mana kamu mengendalikan karakter untuk bertarung melawan pembully dan menghadapi tantangan akademis.</item>
+        <item>Game strategi dan manajemen sekolah fantasi, di mana kamu melatih pahlawan masa depan dan mengembangkan akademi untuk mengalahkan musuh yang datang.</item>
+    </string-array>
+    <string-array name="data_genre">
+        <item>Petualangan Naratif</item>
+        <item>RPG</item>
+        <item>Visual Novel</item>
+        <item>Simulasi Pertanian</item>
+        <item>Horor Survival</item>
+        <item>Aksi, RPG</item>
+        <item>Simulasi Kerajaan, Romansa</item>
+        <item>RPG, Simulasi Kehidupan</item>
+        <item>Aksi, Petualangan</item>
+        <item>Strategi, Manajemen</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/a_space_for_the_unbound</item>
+        <item>@drawable/code_atma</item>
+        <item>@drawable/coffee_talk</item>
+        <item>@drawable/coral_island</item>
+        <item>@drawable/dreadout</item>
+        <item>@drawable/knight_vs_giant</item>
+        <item>@drawable/my_lovely_empress</item>
+        <item>@drawable/potion_permit</item>
+        <item>@drawable/troublemaker</item>
+        <item>@drawable/valthirian_arc_2</item>
+    </integer-array>
 </resources>
