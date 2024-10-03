@@ -41,6 +41,10 @@ class DetailGame : AppCompatActivity() {
         binding.tvContentName.text = gameData.name
         binding.tvGenreContent.text = gameData.genre
         binding.tvGameDescriptionContent.text = gameData.description
+        binding.tvDataPrice.text = gameData.price
+        binding.tvDataDeveloper.text = gameData.developer
+        binding.tvDataReleaseDate.text = gameData.releaseDate
+        binding.tvDataPublisher.text = gameData.publisher
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {

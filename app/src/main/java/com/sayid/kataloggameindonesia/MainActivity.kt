@@ -24,6 +24,10 @@ class MainActivity : AppCompatActivity() {
 
     private fun getListGame(): ArrayList<Game> {
         val dataName = resources.getStringArray(R.array.data_name)
+        val dataPublisher = resources.getStringArray(R.array.data_publisher)
+        val dataDeveloper = resources.getStringArray(R.array.data_developer)
+        val dataReleaseDate = resources.getStringArray(R.array.data_release_date)
+        val dataPrice = resources.getStringArray(R.array.data_price)
         val dataDescription = resources.getStringArray(R.array.data_description)
         val dataGenre = resources.getStringArray(R.array.data_genre)
         val dataPhoto = resources.obtainTypedArray(R.array.data_photo)
@@ -36,6 +40,10 @@ class MainActivity : AppCompatActivity() {
                     dataGenre[i],
                     dataDescription[i],
                     dataPhoto.getResourceId(i, -1),
+                    dataPublisher[i],
+                    dataDeveloper[i],
+                    dataReleaseDate[i],
+                    dataPrice[i],
                 )
             listGame.add(game)
         }

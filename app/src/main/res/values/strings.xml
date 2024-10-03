@@ -3,11 +3,64 @@
 
     <string name="name">Nama Game</string>
     <string name="genre">Genre:</string>
-    <string name="description">Deskripsi</string>
+    <string name="description">Deskripsi Game</string>
     <string name="about">Tentang Saya</string>
     <string name="about_name">Sayid Achmad Maulana</string>
     <string name="about_email">syaidahmad7z@gmail.com</string>
     <string name="share">Bagikan Game</string>
+    <string name="publisher">Penerbit:</string>
+    <string name="developer">Pengembang:</string>
+    <string name="release_date">Tanggal Rilis:</string>
+    <string name="price">Harga:</string>
+    <string name="information">Informasi Game</string>
+    <string-array name="data_price">
+        <item>Rp 99.900</item>
+        <item>Gratis</item>
+        <item>Rp 84.999</item>
+        <item>Rp 245.999</item>
+        <item>Rp 130.999</item>
+        <item>Rp 165.999</item>
+        <item>Rp 165.999</item>
+        <item>Rp 165.999</item>
+        <item>Rp 135.000</item>
+        <item>Rp 169.000</item>
+    </string-array>
+    <string-array name="data_release_date">
+        <item>19 Januari 2023</item>
+        <item>24 Juni 2020</item>
+        <item>29 Januari 2020</item>
+        <item>11 Oktober 2022</item>
+        <item>15 Mei 2014</item>
+        <item>5 Oktober 2023</item>
+        <item>21 Agustus 2024</item>
+        <item>22 September 2022</item>
+        <item>31 Maret 2023</item>
+        <item>22 Juni 2023</item>
+    </string-array>
+    <string-array name="data_developer">
+        <item>Mojiken</item>
+        <item>Agate Games</item>
+        <item>Toge Productions</item>
+        <item>Stairway Games</item>
+        <item>Digital Happiness</item>
+        <item>Gambir Game Studio</item>
+        <item>GameChanger Studio</item>
+        <item>MassHive Media</item>
+        <item>Gamecom Team</item>
+        <item>Agate Games</item>
+    </string-array>
+    <string-array name="data_publisher">
+        <item>Toge Productions</item>
+        <item>Agate Games</item>
+        <item>Toge Productions</item>
+        <item>Humble Bundle</item>
+        <item>Digital Happiness</item>
+        <item>Gambir Game Studio, PQube</item>
+        <item>Neon Doctrine, Another Indie</item>
+        <item>Playdigious, PQube</item>
+        <item>indie.io</item>
+        <item>PQube</item>
+    </string-array>
     <string-array name="data_name">
         <item>A Space For The Unbound</item>
         <item>Code Atma</item>

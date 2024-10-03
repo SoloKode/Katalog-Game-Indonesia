@@ -9,4 +9,8 @@ data class Game(
     val genre: String,
     val description: String,
     val photo: Int,
+    val publisher: String,
+    val developer: String,
+    val releaseDate: String,
+    val price: String,
 ) : Parcelable
