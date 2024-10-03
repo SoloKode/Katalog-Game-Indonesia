@@ -13,23 +13,27 @@
         android:theme="@style/Base.Theme.KatalogGameIndonesia"
         tools:targetApi="31">
         <activity
-            android:label="Tentang Saya"
-            android:name=".AboutPage"
-            android:exported="false" />
-        <activity
-            android:label="Detail Game"
-            android:name=".DetailGame"
-            android:exported="false" />
-        <activity
-            android:label="Katalog Game Indonesia"
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".SplashActivity"
+            android:exported="true"
+            android:theme="@style/Theme.App.SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".AboutPage"
+            android:exported="false"
+            android:label="Tentang Saya" />
+        <activity
+            android:name=".DetailGame"
+            android:exported="false"
+            android:label="Detail Game" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="false"
+            android:label="Katalog Game Indonesia" />
     </application>
 
 </manifest>
