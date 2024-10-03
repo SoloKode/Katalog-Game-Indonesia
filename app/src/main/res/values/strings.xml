@@ -2,8 +2,12 @@
     <string name="app_name">Katalog Game Indonesia</string>
 
     <string name="name">Nama Game</string>
-    <string name="genre">Genre:\u0020</string>
+    <string name="genre">Genre:</string>
     <string name="description">Deskripsi</string>
+    <string name="about">Tentang Saya</string>
+    <string name="about_name">Sayid Achmad Maulana</string>
+    <string name="about_email">syaidahmad7z@gmail.com</string>
+    <string name="share">Bagikan Game</string>
     <string-array name="data_name">
         <item>A Space For The Unbound</item>
         <item>Code Atma</item>
@@ -17,16 +21,16 @@
         <item>Valthirian Arc 2</item>
     </string-array>
     <string-array name="data_description">
-        <item>Game petualangan naratif yang mengeksplorasi kesehatan mental, kenangan, dan hubungan dalam latar belakang Indonesia pada tahun 90-an.</item>
-        <item>RPG mobile yang memadukan dunia mistis dengan teknologi modern, di mana kamu mengumpulkan dan melatih Atma, makhluk mistis yang kuat.</item>
-        <item>Visual novel yang berfokus pada kehidupan barista di sebuah kafe fantasi, mendengarkan cerita pelanggan dan meramu minuman unik untuk mereka.</item>
-        <item>Simulasi pertanian tropis dengan tema pulau, di mana kamu mengelola lahan pertanian, berinteraksi dengan penduduk desa, dan memperbaiki lingkungan.</item>
-        <item>Game horor bertema survival yang mengikuti petualangan seorang siswi SMA yang terjebak di dunia penuh makhluk gaib dan misteri.</item>
-        <item>Game aksi di mana kamu berperan sebagai kesatria yang melawan raksasa dalam pertempuran epik dengan elemen RPG dan strategi.</item>
-        <item>Simulasi kerajaan di mana kamu berperan sebagai seorang permaisuri yang harus mengelola kekaisaran sambil mempertahankan hubungan romantisnya.</item>
-        <item>RPG simulasi kehidupan di mana kamu berperan sebagai alkemis yang membantu penduduk desa dengan meracik ramuan dan mengobati penyakit mereka.</item>
-        <item>Action-adventure berlatar belakang kehidupan sekolah Indonesia, di mana kamu mengendalikan karakter untuk bertarung melawan pembully dan menghadapi tantangan akademis.</item>
-        <item>Game strategi dan manajemen sekolah fantasi, di mana kamu melatih pahlawan masa depan dan mengembangkan akademi untuk mengalahkan musuh yang datang.</item>
+        <item>Game petualangan naratif yang mengeksplorasi kesehatan mental, kenangan, dan hubungan dalam latar belakang Indonesia pada tahun 90-an. Dalam perjalanan ini, pemain akan menghadapi berbagai tantangan emosional dan harus membuat keputusan yang akan memengaruhi jalan cerita dan hubungan antar karakter.</item>
+        <item>RPG mobile yang memadukan dunia mistis dengan teknologi modern, di mana kamu mengumpulkan dan melatih Atma, makhluk mistis yang kuat. Dalam permainan ini, pemain akan menjelajahi berbagai lokasi, bertarung melawan musuh, dan memecahkan teka-teki untuk meningkatkan kekuatan Atma mereka.</item>
+        <item>Visual novel yang berfokus pada kehidupan barista di sebuah kafe fantasi, mendengarkan cerita pelanggan dan meramu minuman unik untuk mereka. Setiap keputusan yang diambil pemain akan mempengaruhi hubungan dengan karakter yang berbeda dan membuka berbagai jalur cerita yang menarik.</item>
+        <item>Simulasi pertanian tropis dengan tema pulau, di mana kamu mengelola lahan pertanian, berinteraksi dengan penduduk desa, dan memperbaiki lingkungan. Pemain dapat menanam berbagai jenis tanaman, membesarkan hewan, dan berpartisipasi dalam festival lokal untuk memperkuat hubungan dengan komunitas.</item>
+        <item>Game horor bertema survival yang mengikuti petualangan seorang siswi SMA yang terjebak di dunia penuh makhluk gaib dan misteri. Pemain harus memecahkan teka-teki, menemukan petunjuk, dan bertahan hidup dari ancaman yang mengintai di setiap sudut, sambil mengungkap rahasia yang gelap dari sekolahnya.</item>
+        <item>Game aksi di mana kamu berperan sebagai kesatria yang melawan raksasa dalam pertempuran epik dengan elemen RPG dan strategi. Pemain dapat mengupgrade senjata dan kemampuan, serta menjalin aliansi dengan karakter lain untuk mengalahkan musuh yang semakin kuat.</item>
+        <item>Simulasi kerajaan di mana kamu berperan sebagai seorang permaisuri yang harus mengelola kekaisaran sambil mempertahankan hubungan romantisnya. Pemain akan membuat keputusan politik, merancang strategi untuk mengembangkan kerajaan, dan menghadapi tantangan dari musuh serta intrik istana.</item>
+        <item>RPG simulasi kehidupan di mana kamu berperan sebagai alkemis yang membantu penduduk desa dengan meracik ramuan dan mengobati penyakit mereka. Selain mengumpulkan bahan-bahan, pemain juga dapat menjelajahi hutan, menghadapi monster, dan menemukan resep rahasia untuk ramuan yang lebih kuat.</item>
+        <item>Action-adventure berlatar belakang kehidupan sekolah Indonesia, di mana kamu mengendalikan karakter untuk bertarung melawan pembully dan menghadapi tantangan akademis. Pemain akan berinteraksi dengan teman sekelas, menyelesaikan misi, dan menemukan cara untuk mengatasi konflik sambil tetap fokus pada pelajaran.</item>
+        <item>Game strategi dan manajemen sekolah fantasi, di mana kamu melatih pahlawan masa depan dan mengembangkan akademi untuk mengalahkan musuh yang datang. Pemain dapat merekrut siswa, meningkatkan fasilitas, dan merancang kurikulum untuk mempersiapkan pahlawan terbaik dalam pertempuran melawan ancaman yang lebih besar.</item>
     </string-array>
     <string-array name="data_genre">
         <item>Petualangan Naratif</item>
